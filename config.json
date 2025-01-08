@@ -17,12 +17,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
+    "61571273283860",
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [ "100005193854879"
+    "whiteListIds": [ "61571273283860"
     ],
     "notes": " Don't chng wlt uid okh"
   },
